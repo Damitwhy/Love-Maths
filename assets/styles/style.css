@@ -6,12 +6,15 @@ body {
     font-family: "Raleway", sans-serif;
     color: #445361;
     text-align: center;
+    
 }
 
 /* --------- Heading */
 
 .heading {
     text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     font-size: 2.5rem;
 }
 
@@ -90,10 +93,11 @@ body {
 .btn {
     width: 220px;
     height: 60px;
+    font-weight: 700;
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: white;
+    color: rgb(208, 65, 65);
 }
 
 .btn:focus {
